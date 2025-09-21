@@ -1,5 +1,5 @@
 import React from "react";
-import CameraViewport from "./CameraViewport";
+import CameraViewport from "./components/CameraViewport";
 
 function App() {
   return (
@@ -11,3 +11,4 @@ function App() {
 }
 
 export default App;
+
